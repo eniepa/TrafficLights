@@ -1,6 +1,6 @@
 ﻿namespace TrafficLights
 {
-    partial class Form1
+    partial class TrafficLights
     {
         /// <summary>
         /// Required designer variable.
@@ -38,7 +38,7 @@
             // 
             // RedLight
             // 
-            this.RedLight.Location = new System.Drawing.Point(53, 12);
+            this.RedLight.Location = new System.Drawing.Point(53, 27);
             this.RedLight.Name = "RedLight";
             this.RedLight.Size = new System.Drawing.Size(100, 100);
             this.RedLight.TabIndex = 0;
@@ -46,7 +46,7 @@
             // 
             // YellowLight
             // 
-            this.YellowLight.Location = new System.Drawing.Point(53, 129);
+            this.YellowLight.Location = new System.Drawing.Point(53, 144);
             this.YellowLight.Name = "YellowLight";
             this.YellowLight.Size = new System.Drawing.Size(100, 100);
             this.YellowLight.TabIndex = 1;
@@ -54,7 +54,7 @@
             // 
             // GreenLight
             // 
-            this.GreenLight.Location = new System.Drawing.Point(53, 249);
+            this.GreenLight.Location = new System.Drawing.Point(53, 259);
             this.GreenLight.Name = "GreenLight";
             this.GreenLight.Size = new System.Drawing.Size(100, 100);
             this.GreenLight.TabIndex = 2;
